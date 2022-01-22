@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankharya
+- 👋 Hi, I’m Ankit Arya
 - 👀 I’m interested in Data Science, Machine Learning, Artifical Intelligence, programming
 - 🌱 I’m currently learning Python, Data Science
 - 💞️ I’m looking to collaborate on ...
